@@ -22,7 +22,7 @@ ascii_heading = f"""{BLUE}
 # Info box
 info_box = f"""
 {BLUE}+{'-'*60}+
-| Author      : S Juthansan                                      |
+| Author      : Kithmina prasad                                  |
 | Description : Multithreaded port scanner to identify open      |
 |               ports and common services like HTTP, DNS, etc.   |
 |                                                                |
